@@ -6,10 +6,16 @@ A list with all known documentation. Feel free to PR it with more data ^^
 
 Conferences
 
-* [Keynote](https://2018.es.pycon.org/talk/keynote/)
+* [Keynote]
   * Lorena Mesa
-* [Keynote](https://2018.es.pycon.org/talk/keynote/)
+* [Keynote]
   * Héctor Socas-Navarro
+* [Prediciendo la contaminación del aire en Madrid: el proceso](https://2018.es.pycon.org/talk/prediciendo-la-contaminacion-del-aire-en-madrid-el-proceso/)
+  * María Medina
+  * [Repo](https://github.com/mariamedp/contaminacion-madrid)
+* [Mocks, fakes, dummies, stubs and spies: Successfully isolating the snake](https://2018.es.pycon.org/talk/mocks-fakes-dummies-stubs-and-spies-successfully-isolating-the-snake/)
+   * Mario Corchero
+   * [Slides](https://speakerdeck.com/mariocj89/unittest-dot-mock-in-detail)
 * [FaaS with no strings attached](https://2018.es.pycon.org/talk/faas-with-no-strings-attached/)
   * Unai
 * [Python ayudando a salvar a las ballenas: cómo el lenguaje puede ser útil en el área del diseño de biopolímeros](https://2018.es.pycon.org/talk/python-ayudando-a-salvar-a-las-ballenas-como-el-lenguaje-puede-ser-util-en-el-area-del-diseno-de-biopolimeros/)
@@ -34,8 +40,6 @@ Conferences
   * Guillem Duran Ballester
 * [GIL: Todo lo que siempre quisiste saber y nunca te atreviste a preguntar](https://2018.es.pycon.org/talk/gil-todo-lo-que-siempre-quisiste-saber-y-nunca-te-atreviste-a-preguntar/)
   * Jesús Cea Avión
-* [Mocks, fakes, dummies, stubs and spies: Successfully isolating the snake](https://2018.es.pycon.org/talk/mocks-fakes-dummies-stubs-and-spies-successfully-isolating-the-snake/)
-  * Mario Corchero
 * [Desde imágenes RGB a mapas de profundidad pasando por redes convolucionales profundas](https://2018.es.pycon.org/talk/desde-imagenes-rgb-a-mapas-de-profundidad-pasando-por-redes-convolucionales-profundas/)
   * Zuria Bauer
 * [Traducción de textos automatizada aplicando Deep Learning con Python y Keras](https://2018.es.pycon.org/talk/traduccion-de-textos-automatizada-aplicando-deep-learning-con-python-y-keras/)
@@ -62,8 +66,6 @@ Conferences
   * Gloria Passarello
 * [Python & gRPC, el conquistador de microservicios](https://2018.es.pycon.org/talk/python-grpc-el-conquistador-de-microservicios/)
   * Esteban Dorado Roldan
-* [Prediciendo la contaminación del aire en Madrid: el proceso](https://2018.es.pycon.org/talk/prediciendo-la-contaminacion-del-aire-en-madrid-el-proceso/)
-  * María Medina
 * [Multitenant, el infierno de las migraciones.](https://2018.es.pycon.org/talk/multitenant-el-infierno-de-las-migraciones/)
   * Xavier Gil Estarellas
 * [Motor de optimización de rutas para el mundo real: Python y otras bestias](https://2018.es.pycon.org/talk/motor-de-optimizacion-de-rutas-para-el-mundo-real-python-y-otras-bestias/)
