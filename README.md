@@ -1,6 +1,7 @@
 # PyConES 2018
 
 A list with all known documentation. Feel free to PR it with more data ^^
+
 If your documentation is in a git repository you may add it as a submodule of this repo:
 ```
 git submodule add https://link_to_your_git_repo
