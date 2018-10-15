@@ -1,6 +1,10 @@
 # PyConES 2018
 
 A list with all known documentation. Feel free to PR it with more data ^^
+If your documentation is in a git repository you may add it as a submodule of this repo:
+```
+git submodule add https://link_to_your_git_repo
+```
 
 [PyConES 2018 Schedule](https://2018.es.pycon.org/#schedule)
 
@@ -16,6 +20,9 @@ Conferences
 * [Mocks, fakes, dummies, stubs and spies: Successfully isolating the snake](https://2018.es.pycon.org/talk/mocks-fakes-dummies-stubs-and-spies-successfully-isolating-the-snake/)
    * Mario Corchero
    * [Slides](https://speakerdeck.com/mariocj89/unittest-dot-mock-in-detail)
+* [El hombre pisó la luna, pero gracias a la mujer](https://2018.es.pycon.org/talk/el-hombre-piso-la-luna-pero-gracias-a-la-mujer/)
+  * Teresa de la Torre
+  * [PDF](https://drive.google.com/file/d/1aOpfmHnjqw0xyiH-A8VBrws9H446CC73/view)
 * [Machine Learning en Cardiología](https://2018.es.pycon.org/talk/machine-learning-en-cardiologia/)
   * Victor Vicente Palacios
   * [Repo](https://github.com/victorvicpal/ML_CARDIOLOGIA_PyConES18)
@@ -121,8 +128,6 @@ Conferences
   * Sara Rodríguez López
 * [¡Oh vosotros los que entráis, abandonad toda esperanza! ](https://2018.es.pycon.org/talk/oh-vosotros-los-que-entrais-abandonad-toda-esperanza/)
   * Pablo Galindo Salgado
-* [El hombre pisó la luna, pero gracias a la mujer](https://2018.es.pycon.org/talk/el-hombre-piso-la-luna-pero-gracias-a-la-mujer/)
-  * Teresa de la Torre
 * [From unstructured news to real-time visualizations, a Fintech story](https://2018.es.pycon.org/talk/from-unstructured-news-to-real-time-visualizations-a-fintech-story/)
   * Oscar Ramirez and Victoria Caparros
 * [Twelve-Factor app](https://2018.es.pycon.org/talk/twelve-factor-app/)
