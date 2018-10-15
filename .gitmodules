@@ -1,6 +1,6 @@
 [submodule "contaminacion-madrid"]
-	path = contaminacion-madrid
+	path = Prediciendo la contaminación del aire en Madrid: el proceso
 	url = https://github.com/mariamedp/contaminacion-madrid
 [submodule "ML_CARDIOLOGIA_PyConES18"]
-	path = ML_CARDIOLOGIA_PyConES18
+	path = Machine Learning en Cardiología
 	url = https://github.com/victorvicpal/ML_CARDIOLOGIA_PyConES18
