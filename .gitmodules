@@ -1,0 +1,6 @@
+[submodule "contaminacion-madrid"]
+	path = contaminacion-madrid
+	url = https://github.com/mariamedp/contaminacion-madrid
+[submodule "ML_CARDIOLOGIA_PyConES18"]
+	path = ML_CARDIOLOGIA_PyConES18
+	url = https://github.com/victorvicpal/ML_CARDIOLOGIA_PyConES18

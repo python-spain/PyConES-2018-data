@@ -16,6 +16,9 @@ Conferences
 * [Mocks, fakes, dummies, stubs and spies: Successfully isolating the snake](https://2018.es.pycon.org/talk/mocks-fakes-dummies-stubs-and-spies-successfully-isolating-the-snake/)
    * Mario Corchero
    * [Slides](https://speakerdeck.com/mariocj89/unittest-dot-mock-in-detail)
+* [Machine Learning en Cardiología](https://2018.es.pycon.org/talk/machine-learning-en-cardiologia/)
+  * Victor Vicente Palacios
+  * [Repo](https://github.com/victorvicpal/ML_CARDIOLOGIA_PyConES18)
 * [FaaS with no strings attached](https://2018.es.pycon.org/talk/faas-with-no-strings-attached/)
   * Unai
 * [Python ayudando a salvar a las ballenas: cómo el lenguaje puede ser útil en el área del diseño de biopolímeros](https://2018.es.pycon.org/talk/python-ayudando-a-salvar-a-las-ballenas-como-el-lenguaje-puede-ser-util-en-el-area-del-diseno-de-biopolimeros/)
@@ -86,8 +89,6 @@ Conferences
   * Alicia Pérez & Javier Ordóñez
 * [Hora de sacar la basura: garbage collector](https://2018.es.pycon.org/talk/hora-de-sacar-la-basura-garbage-collector/)
   * Pablo Galindo y Victor Terrón
-* [Machine Learning en Cardiología](https://2018.es.pycon.org/talk/machine-learning-en-cardiologia/)
-  * Victor Vicente Palacios
 * [Pipenv: nuevo sistema de gestión de dependencias de paquetes para Python.](https://2018.es.pycon.org/talk/pipenv-nuevo-sistema-de-gestion-de-dependencias-de-paquetes-para-python/)
   * Andreu Vallbona
 * [Ojalá que lluevan series temporales](https://2018.es.pycon.org/talk/ojala-que-lluevan-series-temporales/)
