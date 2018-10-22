@@ -57,6 +57,8 @@ Conferences
   * Pablo Vargas Ibarra
 * [Testing python security](https://2018.es.pycon.org/talk/testing-python-security/)
   * Jose Manuel Ortega
+   * [Slides](https://speakerdeck.com/jmortega/testing-python-security)
+   * [Repo](https://github.com/jmortega/testing_python_security)
 * [Y hoy...¿Qué vemos?. Analizando Reviews de Películas con Python](https://2018.es.pycon.org/talk/y-hoy-que-vemos-analizando-reviews-de-peliculas-con-python/)
   * Rafa Haro
 * [Flask, un pequeño gran héroe](https://2018.es.pycon.org/talk/flask-un-pequeno-gran-heroe/)
