@@ -143,3 +143,4 @@ Conferences
   * [Notebook](https://drive.google.com/a/erevalue.com/file/d/1Gzj4dTknO1oLsagW41239CQ15wS_Nzl0/view?usp=sharing)
 * [Un drone voló sobre el nido de Python](https://2018.es.pycon.org/talk/un-drone-volo-sobre-el-nido-de-python/)
   * Mario Bartolome Manovel
+  * [Repo](https://github.com/MarioBartolome/GII_0_17.02_SNSI)
