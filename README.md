@@ -55,6 +55,7 @@ Conferences
   * Zuria Bauer
 * [Traducción de textos automatizada aplicando Deep Learning con Python y Keras](https://2018.es.pycon.org/talk/traduccion-de-textos-automatizada-aplicando-deep-learning-con-python-y-keras/)
   * Pablo Vargas Ibarra
+  * [Repo](https://github.com/PabloVargasIbarra/nmt-pycones2018)
 * [Testing python security](https://2018.es.pycon.org/talk/testing-python-security/)
   * Jose Manuel Ortega
 * [Y hoy...¿Qué vemos?. Analizando Reviews de Películas con Python](https://2018.es.pycon.org/talk/y-hoy-que-vemos-analizando-reviews-de-peliculas-con-python/)
@@ -124,7 +125,7 @@ Conferences
 * [Introducción a Data Science en Python](https://2018.es.pycon.org/talk/introduccion-a-data-science-en-python/)
   * Francisco Correoso, Guillem Duran, Juan Carlos González, Jordi Contestí, Antònia Tugores
 * [Pyomo – Optimización en Python](https://2018.es.pycon.org/talk/pyomo-optimizacion-en-python/)
-  * Alba Carrero, Juan Javaloyes y Daniel Vázquez 
+  * Alba Carrero, Juan Javaloyes y Daniel Vázquez
 * [Representación de datos geográficos](https://2018.es.pycon.org/talk/representacion-de-datos-geograficos/)
   * Sara Rodríguez López
 * [¡Oh vosotros los que entráis, abandonad toda esperanza! ](https://2018.es.pycon.org/talk/oh-vosotros-los-que-entrais-abandonad-toda-esperanza/)

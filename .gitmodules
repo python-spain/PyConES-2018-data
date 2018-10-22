@@ -4,3 +4,6 @@
 [submodule "ML_CARDIOLOGIA_PyConES18"]
 	path = Machine Learning en Cardiología
 	url = https://github.com/victorvicpal/ML_CARDIOLOGIA_PyConES18
+[submodule "nmt-pycones2018"]
+	path = nmt-pycones2018
+	url = https://github.com/PabloVargasIbarra/nmt-pycones2018
