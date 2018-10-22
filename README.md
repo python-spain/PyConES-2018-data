@@ -103,6 +103,8 @@ Conferences
   * Elena Abril Medina
 * [Estrategias de comprensión con y para Python](https://2018.es.pycon.org/talk/estrategias-de-comprension-con-y-para-python/)
   * Martina Kienberger
+  * [PDF](https://github.com/martinakienberger/Charla_PyConES2018/blob/master/Estrategias_de_comprensi%C3%B3n_Python_PyConEs2018.pdf)
+  * [Notebook](https://github.com/martinakienberger/Strategienanalyse_Voc/blob/master/Datenanalyse_Voc_Valencia%20(english).ipynb)
 * [Nueva generación de APIs con API Star](https://2018.es.pycon.org/talk/nueva-generacion-de-apis-con-api-star/)
   * José Antonio Perdiguero
 * [Descubriendo los misterios del universo con Python](https://2018.es.pycon.org/talk/descubriendo-los-misterios-del-universo-con-python/)
