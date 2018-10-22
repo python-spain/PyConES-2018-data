@@ -139,5 +139,7 @@ Conferences
   * Pedro Morales, Enrique Colin
 * [From chaos to insights: the challenges of extracting meaningful information from unstructured data with Python and spaCy](https://2018.es.pycon.org/talk/from-chaos-to-insights-the-challenges-of-extracting-meaningful-information-from-unstructured-data-with-python-and-spacy/)
   * Jérôme Basdevant, José Manuel Martínez Martínez
+  * [Slides](https://drive.google.com/open?id=1FEPFyWoU9I0i0I9SBuHN8GCQkrnNde-o)
+  * [Notebook](https://drive.google.com/a/erevalue.com/file/d/1Gzj4dTknO1oLsagW41239CQ15wS_Nzl0/view?usp=sharing)
 * [Un drone voló sobre el nido de Python](https://2018.es.pycon.org/talk/un-drone-volo-sobre-el-nido-de-python/)
   * Mario Bartolome Manovel
