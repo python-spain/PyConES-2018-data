@@ -23,7 +23,7 @@ Conferences
    * [Slides](https://speakerdeck.com/mariocj89/unittest-dot-mock-in-detail)
 * [El hombre pisó la luna, pero gracias a la mujer](https://2018.es.pycon.org/talk/el-hombre-piso-la-luna-pero-gracias-a-la-mujer/)
   * Teresa de la Torre
-  * [PDF](https://drive.google.com/file/d/1aOpfmHnjqw0xyiH-A8VBrws9H446CC73/view)
+  * [PDF](https://drive.google.com/file/d/0BzNh_KS-0Z_qV0tNV1BUeFpkdHdyTUhWdk00UFZqZ1Q2eWdn/view)
 * [Machine Learning en Cardiología](https://2018.es.pycon.org/talk/machine-learning-en-cardiologia/)
   * Victor Vicente Palacios
   * [Repo](https://github.com/victorvicpal/ML_CARDIOLOGIA_PyConES18)
