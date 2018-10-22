@@ -83,6 +83,7 @@ Conferences
   * Josema Camacho, Alberto Asuero, Cayetano Benavent
 * [Sustituyendo Makefiles con Python y Luigi](https://2018.es.pycon.org/talk/sustituyendo-makefiles-con-python-y-luigi/)
   * Javier Torres Niño
+  * [Slides](https://docs.google.com/presentation/d/1ztAi9jQZKargpNCU0ucB0MFQzDGdzC09KzRGp5E8QC4/edit?usp=sharing)
 * [Project templates with Cookiecuter](https://2018.es.pycon.org/talk/project-templates-with-cookiecuter/)
   * Héctor Canto
 * [List me your virtues](https://2018.es.pycon.org/talk/list-me-your-virtues/)
