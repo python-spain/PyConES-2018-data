@@ -87,8 +87,10 @@ Conferences
   * Héctor Canto
 * [List me your virtues](https://2018.es.pycon.org/talk/list-me-your-virtues/)
   * Maite Giménez
-* [Gradual typing en Python](https://2018.es.pycon.org/talk/gradual-typing-en-python/)
+* [Tipín en Pitón (Gradual Typing en Python)](https://2018.es.pycon.org/talk/gradual-typing-en-python/)
   * David Barragán Merino
+  * Slides: [Web](https://bameda.github.io/pycones2018-gradual-typing-python/) / [pdf](https://github.com/bameda/pycones2018-gradual-typing-python/blob/master/davidbarraganmerino-pycones2018-tipinenpiton.pdf)
+  * [Repo](https://github.com/bameda/pycones2018-gradual-typing-python)
 * [Recomendación de canciones usando Fourier, ¿mejor que Spotify?](https://2018.es.pycon.org/talk/recomendacion-de-canciones-usando-fourier-mejor-que-spotify/)
   * Carlos Perales
 * [Python Heaps-ters](https://2018.es.pycon.org/talk/python-heaps-ters/)
@@ -124,7 +126,7 @@ Conferences
 * [Introducción a Data Science en Python](https://2018.es.pycon.org/talk/introduccion-a-data-science-en-python/)
   * Francisco Correoso, Guillem Duran, Juan Carlos González, Jordi Contestí, Antònia Tugores
 * [Pyomo – Optimización en Python](https://2018.es.pycon.org/talk/pyomo-optimizacion-en-python/)
-  * Alba Carrero, Juan Javaloyes y Daniel Vázquez 
+  * Alba Carrero, Juan Javaloyes y Daniel Vázquez
 * [Representación de datos geográficos](https://2018.es.pycon.org/talk/representacion-de-datos-geograficos/)
   * Sara Rodríguez López
 * [¡Oh vosotros los que entráis, abandonad toda esperanza! ](https://2018.es.pycon.org/talk/oh-vosotros-los-que-entrais-abandonad-toda-esperanza/)
