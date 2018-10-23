@@ -7,6 +7,9 @@
 [submodule "Un drone volo sobre el nido de Python"]
 	path = Un drone volo sobre el nido de Python
 	url = https://github.com/MarioBartolome/GII_0_17.02_SNSI
+[submodule "nmt-pycones2018"]
+	path = nmt-pycones2018
+	url = https://github.com/PabloVargasIbarra/nmt-pycones2018
 [submodule "Tipín en Pitón (Gradual Typing en Python)"]
 	path = Tipín en Pitón (Gradual Typing en Python)
 	url = https://github.com/bameda/pycones2018-gradual-typing-python

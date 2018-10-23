@@ -55,6 +55,7 @@ Conferences
   * Zuria Bauer
 * [Traducción de textos automatizada aplicando Deep Learning con Python y Keras](https://2018.es.pycon.org/talk/traduccion-de-textos-automatizada-aplicando-deep-learning-con-python-y-keras/)
   * Pablo Vargas Ibarra
+  * [Repo](https://github.com/PabloVargasIbarra/nmt-pycones2018)
 * [Testing python security](https://2018.es.pycon.org/talk/testing-python-security/)
   * Jose Manuel Ortega
 * [Y hoy...¿Qué vemos?. Analizando Reviews de Películas con Python](https://2018.es.pycon.org/talk/y-hoy-que-vemos-analizando-reviews-de-peliculas-con-python/)
