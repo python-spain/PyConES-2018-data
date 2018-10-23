@@ -4,6 +4,9 @@
 [submodule "ML_CARDIOLOGIA_PyConES18"]
 	path = Machine Learning en Cardiología
 	url = https://github.com/victorvicpal/ML_CARDIOLOGIA_PyConES18
+[submodule "Un drone volo sobre el nido de Python"]
+	path = Un drone volo sobre el nido de Python
+	url = https://github.com/MarioBartolome/GII_0_17.02_SNSI
 [submodule "nmt-pycones2018"]
 	path = nmt-pycones2018
 	url = https://github.com/PabloVargasIbarra/nmt-pycones2018

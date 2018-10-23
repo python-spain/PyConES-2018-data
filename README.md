@@ -23,7 +23,7 @@ Conferences
    * [Slides](https://speakerdeck.com/mariocj89/unittest-dot-mock-in-detail)
 * [El hombre pisó la luna, pero gracias a la mujer](https://2018.es.pycon.org/talk/el-hombre-piso-la-luna-pero-gracias-a-la-mujer/)
   * Teresa de la Torre
-  * [PDF](https://drive.google.com/file/d/1aOpfmHnjqw0xyiH-A8VBrws9H446CC73/view)
+  * [PDF](https://drive.google.com/file/d/0BzNh_KS-0Z_qV0tNV1BUeFpkdHdyTUhWdk00UFZqZ1Q2eWdn/view)
 * [Machine Learning en Cardiología](https://2018.es.pycon.org/talk/machine-learning-en-cardiologia/)
   * Victor Vicente Palacios
   * [Repo](https://github.com/victorvicpal/ML_CARDIOLOGIA_PyConES18)
@@ -140,5 +140,8 @@ Conferences
   * Pedro Morales, Enrique Colin
 * [From chaos to insights: the challenges of extracting meaningful information from unstructured data with Python and spaCy](https://2018.es.pycon.org/talk/from-chaos-to-insights-the-challenges-of-extracting-meaningful-information-from-unstructured-data-with-python-and-spacy/)
   * Jérôme Basdevant, José Manuel Martínez Martínez
+  * [Slides](https://drive.google.com/open?id=1FEPFyWoU9I0i0I9SBuHN8GCQkrnNde-o)
+  * [Notebook](https://drive.google.com/a/erevalue.com/file/d/1Gzj4dTknO1oLsagW41239CQ15wS_Nzl0/view?usp=sharing)
 * [Un drone voló sobre el nido de Python](https://2018.es.pycon.org/talk/un-drone-volo-sobre-el-nido-de-python/)
   * Mario Bartolome Manovel
+  * [Repo](https://github.com/MarioBartolome/GII_0_17.02_SNSI)
