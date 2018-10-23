@@ -16,3 +16,6 @@
 [submodule "testing_python_security"]
 	path = Testing python security
 	url = https://github.com/jmortega/testing_python_security
+[submodule "pycon18-attack"]
+	path = The bad guys in AI - atacando sistemas de machine learning
+	url = https://github.com/aliciapj/pycon18-attack
