@@ -84,12 +84,15 @@ Conferences
   * Josema Camacho, Alberto Asuero, Cayetano Benavent
 * [Sustituyendo Makefiles con Python y Luigi](https://2018.es.pycon.org/talk/sustituyendo-makefiles-con-python-y-luigi/)
   * Javier Torres Niño
+  * [Slides](https://docs.google.com/presentation/d/1ztAi9jQZKargpNCU0ucB0MFQzDGdzC09KzRGp5E8QC4/edit?usp=sharing)
 * [Project templates with Cookiecuter](https://2018.es.pycon.org/talk/project-templates-with-cookiecuter/)
   * Héctor Canto
 * [List me your virtues](https://2018.es.pycon.org/talk/list-me-your-virtues/)
   * Maite Giménez
-* [Gradual typing en Python](https://2018.es.pycon.org/talk/gradual-typing-en-python/)
+* [Tipín en Pitón (Gradual Typing en Python)](https://2018.es.pycon.org/talk/gradual-typing-en-python/)
   * David Barragán Merino
+  * Slides: [Web](https://bameda.github.io/pycones2018-gradual-typing-python/) / [pdf](https://github.com/bameda/pycones2018-gradual-typing-python/blob/master/davidbarraganmerino-pycones2018-tipinenpiton.pdf)
+  * [Repo](https://github.com/bameda/pycones2018-gradual-typing-python)
 * [Recomendación de canciones usando Fourier, ¿mejor que Spotify?](https://2018.es.pycon.org/talk/recomendacion-de-canciones-usando-fourier-mejor-que-spotify/)
   * Carlos Perales
 * [Python Heaps-ters](https://2018.es.pycon.org/talk/python-heaps-ters/)
@@ -104,6 +107,8 @@ Conferences
   * Elena Abril Medina
 * [Estrategias de comprensión con y para Python](https://2018.es.pycon.org/talk/estrategias-de-comprension-con-y-para-python/)
   * Martina Kienberger
+  * [PDF](https://github.com/martinakienberger/Charla_PyConES2018/blob/master/Estrategias_de_comprensi%C3%B3n_Python_PyConEs2018.pdf)
+  * [Notebook](https://github.com/martinakienberger/Strategienanalyse_Voc/blob/master/Datenanalyse_Voc_Valencia%20(english).ipynb)
 * [Nueva generación de APIs con API Star](https://2018.es.pycon.org/talk/nueva-generacion-de-apis-con-api-star/)
   * José Antonio Perdiguero
 * [Descubriendo los misterios del universo con Python](https://2018.es.pycon.org/talk/descubriendo-los-misterios-del-universo-con-python/)

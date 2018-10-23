@@ -10,3 +10,6 @@
 [submodule "nmt-pycones2018"]
 	path = nmt-pycones2018
 	url = https://github.com/PabloVargasIbarra/nmt-pycones2018
+[submodule "Tipín en Pitón (Gradual Typing en Python)"]
+	path = Tipín en Pitón (Gradual Typing en Python)
+	url = https://github.com/bameda/pycones2018-gradual-typing-python
