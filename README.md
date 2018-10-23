@@ -41,6 +41,8 @@ Conferences
   * Antonio Vilches
 * [Instrumenta tu app con Prometheus](https://2018.es.pycon.org/talk/instrumenta-tu-app-con-prometheus/)
   * Agustín Herranz Cecilia
+  * [Slides](https://speakerdeck.com/tinproject/instrumenta-tu-app-con-prometheus-pycones-2018)
+  * [Companion app/Prometheus playground](https://github.com/tinproject/emojivending)
 * [Evaluation of text analysis in social media: a linguistic approach](https://2018.es.pycon.org/talk/evaluation-of-text-analysis-in-social-media-a-linguistic-approach/)
   * Eulàlia Veny
 * [Deep Learning will Beat you in a Kung-Fu Battle](https://2018.es.pycon.org/talk/deep-learning-will-beat-you-in-a-kung-fu-battle/)
