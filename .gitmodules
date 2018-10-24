@@ -19,3 +19,6 @@
 [submodule "pycon18-attack"]
 	path = The bad guys in AI - atacando sistemas de machine learning
 	url = https://github.com/aliciapj/pycon18-attack
+[submodule "foucluster"]
+	path = foucluster
+	url = https://github.com/cperales/foucluster

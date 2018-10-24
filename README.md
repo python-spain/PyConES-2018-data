@@ -156,3 +156,9 @@ Conferences
 * [Un drone voló sobre el nido de Python](https://2018.es.pycon.org/talk/un-drone-volo-sobre-el-nido-de-python/)
   * Mario Bartolome Manovel
   * [Repo](https://github.com/MarioBartolome/GII_0_17.02_SNSI)
+* [Recomendación de canciones usando Fourier, ¿mejor que Spotify?](https://2018.es.pycon.org/talk/recomendacion-de-canciones-usando-fourier-mejor-que-spotify)
+  * Carlos Perales González
+  * [Slides](https://es.slideshare.net/CarlosPerales/clustering-de-canciones-usando-fourier)
+  * [Repo](https://github.com/cperales/foucluster)
+  * [Docs](https://cperales.github.io/foucluster/)
+ 
