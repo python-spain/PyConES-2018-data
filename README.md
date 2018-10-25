@@ -123,6 +123,7 @@ Conferences
   * Claudia Guirao Fernández
 * [A la caza de exoplanetas por imagen directa con Python - De la ciencia de datos, la exoplanetología y otros demonios](https://2018.es.pycon.org/talk/a-la-caza-de-exoplanetas-por-imagen-directa-con-python-de-la-ciencia-de-datos-la-exoplanetologia-y-otros-demonios/)
   * Carlos Alberto Gomez Gonzalez
+  * [Slides](https://speakerdeck.com/carlgogo/a-la-caza-de-exoplanetas-por-imagen-directa-con-python-de-la-ciencia-de-datos-la-exoplanetologia-y-otros-demonios)
 * [Ansible DIY](https://2018.es.pycon.org/talk/ansible-diy/)
   * Álvaro León Santiago
 * [Aprende a enseñar, enseñando aprenderás](https://2018.es.pycon.org/talk/aprende-a-ensenar-ensenando-aprenderas/)
