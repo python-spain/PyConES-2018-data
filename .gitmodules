@@ -22,3 +22,6 @@
 [submodule "foucluster"]
 	path = Recomendación de canciones usando Fourier, ¿mejor que Spotify?
 	url = https://github.com/cperales/foucluster
+[submodule "PyConES2018_Introduccion_a_data_science_en_Python"]
+	path = Introducción a Data Science en Python
+	url = https://github.com/PyDataMallorca/PyConES2018_Introduccion_a_data_science_en_Python

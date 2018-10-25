@@ -9,6 +9,12 @@ git submodule add https://link_to_your_git_repo
 
 [PyConES 2018 Schedule](https://2018.es.pycon.org/#schedule)
 
+Workshops
+
+* [Introducción a Data Science en Python](https://2018.es.pycon.org/talk/introduccion-a-data-science-en-python)
+  * Francisco Correoso, Guillem Duran, Juan Carlos González, Jordi Contestí, Antònia Tugores
+  * [Repo](https://github.com/PyDataMallorca/PyConES2018_Introduccion_a_data_science_en_Python)
+
 Conferences
 
 * [Keynote]
