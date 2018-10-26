@@ -14,6 +14,16 @@ Workshops
 * [Introducción a Data Science en Python](https://2018.es.pycon.org/talk/introduccion-a-data-science-en-python)
   * Francisco Correoso, Guillem Duran, Juan Carlos González, Jordi Contestí, Antònia Tugores
   * [Repo](https://github.com/PyDataMallorca/PyConES2018_Introduccion_a_data_science_en_Python)
+* [TDD de cero a cien (o casi)](https://2018.es.pycon.org/talk/tdd-de-cero-a-cien-o-casi/)
+  * Raúl Villares & Alberto de la Cruz
+* [¡Eureka! - Python y ciencia](https://2018.es.pycon.org/talk/eureka-python-y-ciencia/)
+  * Miguel Sánchez de León Peque
+* [Las herramientas de un detective](https://2018.es.pycon.org/talk/las-herramientas-de-un-detective/)
+  * Víctor Muñoz
+* [Pyomo – Optimización en Python](https://2018.es.pycon.org/talk/pyomo-optimizacion-en-python/)
+  * Alba Carrero, Juan Javaloyes y Daniel Vázquez
+* [Representación de datos geográficos](https://2018.es.pycon.org/talk/representacion-de-datos-geograficos/)
+  * Sara Rodríguez López
 
 Conferences
 
@@ -134,18 +144,6 @@ Conferences
   * Álvaro León Santiago
 * [Aprende a enseñar, enseñando aprenderás](https://2018.es.pycon.org/talk/aprende-a-ensenar-ensenando-aprenderas/)
   * Irene Pérez Encinar
-* [TDD de cero a cien (o casi)](https://2018.es.pycon.org/talk/tdd-de-cero-a-cien-o-casi/)
-  * Raúl Villares & Alberto de la Cruz
-* [¡Eureka! - Python y ciencia](https://2018.es.pycon.org/talk/eureka-python-y-ciencia/)
-  * Miguel Sánchez de León Peque
-* [Las herramientas de un detective](https://2018.es.pycon.org/talk/las-herramientas-de-un-detective/)
-  * Víctor Muñoz
-* [Introducción a Data Science en Python](https://2018.es.pycon.org/talk/introduccion-a-data-science-en-python/)
-  * Francisco Correoso, Guillem Duran, Juan Carlos González, Jordi Contestí, Antònia Tugores
-* [Pyomo – Optimización en Python](https://2018.es.pycon.org/talk/pyomo-optimizacion-en-python/)
-  * Alba Carrero, Juan Javaloyes y Daniel Vázquez
-* [Representación de datos geográficos](https://2018.es.pycon.org/talk/representacion-de-datos-geograficos/)
-  * Sara Rodríguez López
 * [¡Oh vosotros los que entráis, abandonad toda esperanza! ](https://2018.es.pycon.org/talk/oh-vosotros-los-que-entrais-abandonad-toda-esperanza/)
   * Pablo Galindo Salgado
 * [From unstructured news to real-time visualizations, a Fintech story](https://2018.es.pycon.org/talk/from-unstructured-news-to-real-time-visualizations-a-fintech-story/)
