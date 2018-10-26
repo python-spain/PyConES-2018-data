@@ -9,7 +9,7 @@ git submodule add https://link_to_your_git_repo
 
 [PyConES 2018 Schedule](https://2018.es.pycon.org/#schedule)
 
-Workshops
+## Workshops
 
 * [Introducción a Data Science en Python](https://2018.es.pycon.org/talk/introduccion-a-data-science-en-python)
   * Francisco Correoso, Guillem Duran, Juan Carlos González, Jordi Contestí, Antònia Tugores
@@ -25,7 +25,7 @@ Workshops
 * [Representación de datos geográficos](https://2018.es.pycon.org/talk/representacion-de-datos-geograficos/)
   * Sara Rodríguez López
 
-Conferences
+## Conferences
 
 * [Keynote]
   * Lorena Mesa
