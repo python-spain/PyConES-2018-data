@@ -124,6 +124,7 @@ git submodule add https://link_to_your_git_repo
   * [Repo](https://github.com/aliciapj/pycon18-attack)
 * [Hora de sacar la basura: garbage collector](https://2018.es.pycon.org/talk/hora-de-sacar-la-basura-garbage-collector/)
   * Pablo Galindo y Victor Terrón
+  * Slides: [Repo](https://vterron.xyz/gc) | [PDF](https://github.com/vterron/python-talks/blob/master/%5B2018%5D%20Taking%20the%20Garbage%20Out/python-garbage-collection.pdf)
 * [Pipenv: nuevo sistema de gestión de dependencias de paquetes para Python.](https://2018.es.pycon.org/talk/pipenv-nuevo-sistema-de-gestion-de-dependencias-de-paquetes-para-python/)
   * Andreu Vallbona
 * [Ojalá que lluevan series temporales](https://2018.es.pycon.org/talk/ojala-que-lluevan-series-temporales/)
