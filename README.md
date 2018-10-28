@@ -117,6 +117,7 @@ git submodule add https://link_to_your_git_repo
   * Carlos Perales
 * [Python Heaps-ters](https://2018.es.pycon.org/talk/python-heaps-ters/)
   * Víctor Terrón
+  * Slides: [Repo](https://vterron.xyz/heaps) | [nbviewer](http://nbviewer.jupyter.org/github/vterron/python-talks/blob/master/%5B2018%5D%20Python%20Heaps-ters/python-heaps-ters.ipynb)
 * [The bad guys in AI: atacando sistemas de machine learning](https://2018.es.pycon.org/talk/the-bad-guys-in-ai-atacando-sistemas-de-machine-learning/)
   * Alicia Pérez & Javier Ordóñez
   * [Slides](https://github.com/aliciapj/pycon18-attack/blob/master/slides/PyCon2018_The_bad_guys_in_AI.pdf)
