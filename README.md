@@ -18,6 +18,8 @@ git submodule add https://link_to_your_git_repo
   * Raúl Villares & Alberto de la Cruz
 * [¡Eureka! - Python y ciencia](https://2018.es.pycon.org/talk/eureka-python-y-ciencia/)
   * Miguel Sánchez de León Peque
+  * [Notebook ![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Peque/PyConES-Spain-2018-eureka/binder?filepath=Eureka.ipynb)
+  * [Repository](https://github.com/Peque/PyConES-Spain-2018-eureka)
 * [Las herramientas de un detective](https://2018.es.pycon.org/talk/las-herramientas-de-un-detective/)
   * Víctor Muñoz
 * [Pyomo – Optimización en Python](https://2018.es.pycon.org/talk/pyomo-optimizacion-en-python/)
@@ -166,4 +168,3 @@ git submodule add https://link_to_your_git_repo
   * [Slides](https://es.slideshare.net/CarlosPerales/clustering-de-canciones-usando-fourier)
   * [Repo](https://github.com/cperales/foucluster)
   * [Docs](https://cperales.github.io/foucluster/)
- 
