@@ -133,6 +133,8 @@ git submodule add https://link_to_your_git_repo
   * [Notebook](https://github.com/martinakienberger/Strategienanalyse_Voc/blob/master/Datenanalyse_Voc_Valencia%20(english).ipynb)
 * [Nueva generación de APIs con API Star](https://2018.es.pycon.org/talk/nueva-generacion-de-apis-con-api-star/)
   * José Antonio Perdiguero
+  * [Slides](https://github.com/PeRDy/speech/blob/master/new_generation_api_18-10/slides/Slides.pdf)
+  * [Repo](https://github.com/perdy/speech)
 * [Descubriendo los misterios del universo con Python](https://2018.es.pycon.org/talk/descubriendo-los-misterios-del-universo-con-python/)
   * Maria Camila Remolina-Gutiérrez
 * [Back to Basics: NLP](https://2018.es.pycon.org/talk/back-to-basics-nlp/)
