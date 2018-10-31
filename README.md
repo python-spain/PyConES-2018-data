@@ -144,6 +144,7 @@ git submodule add https://link_to_your_git_repo
   * Álvaro León Santiago
 * [Aprende a enseñar, enseñando aprenderás](https://2018.es.pycon.org/talk/aprende-a-ensenar-ensenando-aprenderas/)
   * Irene Pérez Encinar
+  * [Slides](https://docs.google.com/presentation/d/1fT6hZnhzRZnRi_Yto77hT2IdeluhJS9_50jpvTbriww/edit?usp=sharing)
 * [¡Oh vosotros los que entráis, abandonad toda esperanza! ](https://2018.es.pycon.org/talk/oh-vosotros-los-que-entrais-abandonad-toda-esperanza/)
   * Pablo Galindo Salgado
 * [From unstructured news to real-time visualizations, a Fintech story](https://2018.es.pycon.org/talk/from-unstructured-news-to-real-time-visualizations-a-fintech-story/)
