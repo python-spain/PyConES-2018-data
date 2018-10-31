@@ -51,6 +51,7 @@ git submodule add https://link_to_your_git_repo
   * Daniel Domene López
 * [YADLRetina: Yet Another Deep Learning Retina](https://2018.es.pycon.org/talk/yadlretina-yet-another-deep-learning-retina/)
   * Rubén Crespo Cano
+  * [Slides](https://github.com/rcrespocano/PyConES-2018)
 * [Web scraping para principiantes](https://2018.es.pycon.org/talk/web-scraping-para-principiantes/)
   * Sara Rodríguez López
 * [Using Python to build a data privacy layer for decentralized applications](https://2018.es.pycon.org/talk/using-python-to-build-a-data-privacy-layer-for-decentralized-applications/)
