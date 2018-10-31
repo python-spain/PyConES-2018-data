@@ -119,12 +119,14 @@ git submodule add https://link_to_your_git_repo
   * Carlos Perales
 * [Python Heaps-ters](https://2018.es.pycon.org/talk/python-heaps-ters/)
   * Víctor Terrón
+  * Slides: [Repo](https://vterron.xyz/heaps) | [nbviewer](http://nbviewer.jupyter.org/github/vterron/python-talks/blob/master/%5B2018%5D%20Python%20Heaps-ters/python-heaps-ters.ipynb)
 * [The bad guys in AI: atacando sistemas de machine learning](https://2018.es.pycon.org/talk/the-bad-guys-in-ai-atacando-sistemas-de-machine-learning/)
   * Alicia Pérez & Javier Ordóñez
   * [Slides](https://github.com/aliciapj/pycon18-attack/blob/master/slides/PyCon2018_The_bad_guys_in_AI.pdf)
   * [Repo](https://github.com/aliciapj/pycon18-attack)
 * [Hora de sacar la basura: garbage collector](https://2018.es.pycon.org/talk/hora-de-sacar-la-basura-garbage-collector/)
   * Pablo Galindo y Victor Terrón
+  * Slides: [Repo](https://vterron.xyz/gc) | [PDF](https://github.com/vterron/python-talks/blob/master/%5B2018%5D%20Taking%20the%20Garbage%20Out/python-garbage-collection.pdf)
 * [Pipenv: nuevo sistema de gestión de dependencias de paquetes para Python.](https://2018.es.pycon.org/talk/pipenv-nuevo-sistema-de-gestion-de-dependencias-de-paquetes-para-python/)
   * Andreu Vallbona
 * [Ojalá que lluevan series temporales](https://2018.es.pycon.org/talk/ojala-que-lluevan-series-temporales/)
