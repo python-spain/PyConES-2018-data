@@ -99,6 +99,7 @@ Conferences
   * Pablo Galindo y Victor Terrón
 * [Pipenv: nuevo sistema de gestión de dependencias de paquetes para Python.](https://2018.es.pycon.org/talk/pipenv-nuevo-sistema-de-gestion-de-dependencias-de-paquetes-para-python/)
   * Andreu Vallbona
+  * [Slides](https://www.slideshare.net/AndreuVallbonaPlazas/pipenv-python-dev-workflow-for-humans-118422815)
 * [Ojalá que lluevan series temporales](https://2018.es.pycon.org/talk/ojala-que-lluevan-series-temporales/)
   * Elena Abril Medina
 * [Estrategias de comprensión con y para Python](https://2018.es.pycon.org/talk/estrategias-de-comprension-con-y-para-python/)
