@@ -142,6 +142,7 @@ git submodule add https://link_to_your_git_repo
   * [Repo](https://github.com/perdy/speech)
 * [Descubriendo los misterios del universo con Python](https://2018.es.pycon.org/talk/descubriendo-los-misterios-del-universo-con-python/)
   * Maria Camila Remolina-Gutiérrez
+  * [Slides](https://docs.google.com/presentation/d/1yB-CvKNvg13xyCHrqBTDOVBC-elTc10xy2vBVm53wZg/edit?usp=sharing)
 * [Back to Basics: NLP](https://2018.es.pycon.org/talk/back-to-basics-nlp/)
   * Claudia Guirao Fernández
 * [A la caza de exoplanetas por imagen directa con Python - De la ciencia de datos, la exoplanetología y otros demonios](https://2018.es.pycon.org/talk/a-la-caza-de-exoplanetas-por-imagen-directa-con-python-de-la-ciencia-de-datos-la-exoplanetologia-y-otros-demonios/)
