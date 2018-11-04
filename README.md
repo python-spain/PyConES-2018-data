@@ -90,6 +90,7 @@ git submodule add https://link_to_your_git_repo
   * Mar Bartolomé
 * [¿Por qué y para qué usar Wagtail?](https://2018.es.pycon.org/talk/por-que-y-para-que-usar-wagtail/)
   * Federico Mon
+  * [Video](https://www.youtube.com/watch?v=d7PfyUoZ2j4)
   * [Slides](https://gnufede.gitlab.io/wagtail-talk)
 * [Build your static site with Python](https://2018.es.pycon.org/talk/build-your-static-site-with-python/)
   * Fernando Rabanal
