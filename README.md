@@ -26,6 +26,7 @@ git submodule add https://link_to_your_git_repo
   * Alba Carrero, Juan Javaloyes y Daniel Vázquez
 * [Representación de datos geográficos](https://2018.es.pycon.org/talk/representacion-de-datos-geograficos/)
   * Sara Rodríguez López
+  * [Repo](https://github.com/sararl/pycones2018/tree/master/tallerDatosGeo_05_10_18)
 
 ## Conferences
 
@@ -53,6 +54,7 @@ git submodule add https://link_to_your_git_repo
   * Rubén Crespo Cano
 * [Web scraping para principiantes](https://2018.es.pycon.org/talk/web-scraping-para-principiantes/)
   * Sara Rodríguez López
+  * [Repo](https://github.com/sararl/pycones2018/tree/master/webScrapingCrawling_06_10_18)
 * [Using Python to build a data privacy layer for decentralized applications](https://2018.es.pycon.org/talk/using-python-to-build-a-data-privacy-layer-for-decentralized-applications/)
   * David Núñez
 * [Khiva: Cómo Al Juarismi reventaba GPUs para analizar time-series](https://2018.es.pycon.org/talk/khiva-como-al-juarismi-reventaba-gpus-para-analizar-time-series/)

@@ -25,3 +25,9 @@
 [submodule "PyConES2018_Introduccion_a_data_science_en_Python"]
 	path = Introducción a Data Science en Python
 	url = https://github.com/PyDataMallorca/PyConES2018_Introduccion_a_data_science_en_Python
+[submodule "Taller - Representación de datos geográficos"]
+	path = Taller - Representación de datos geográficos
+	url = https://github.com/sararl/pycones2018
+[submodule "Web scraping para principiantes"]
+	path = Web scraping para principiantes
+	url = https://github.com/sararl/pycones2018
