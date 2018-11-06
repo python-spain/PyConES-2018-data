@@ -16,6 +16,8 @@ git submodule add https://link_to_your_git_repo
   * [Repo](https://github.com/PyDataMallorca/PyConES2018_Introduccion_a_data_science_en_Python)
 * [TDD de cero a cien (o casi)](https://2018.es.pycon.org/talk/tdd-de-cero-a-cien-o-casi/)
   * Raúl Villares & Alberto de la Cruz
+  * [Repo](https://github.com/aleasoluciones/pycones2018)
+  * [Slides](https://github.com/aleasoluciones/pycones2018/blob/master/doc/PyConES_2018.pdf)
 * [¡Eureka! - Python y ciencia](https://2018.es.pycon.org/talk/eureka-python-y-ciencia/)
   * Miguel Sánchez de León Peque
   * [Notebook ![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Peque/PyConES-Spain-2018-eureka/binder?filepath=Eureka.ipynb)

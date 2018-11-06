@@ -31,3 +31,6 @@
 [submodule "Web scraping para principiantes"]
 	path = Web scraping para principiantes
 	url = https://github.com/sararl/pycones2018
+[submodule "tdd_pycones_2018"]
+	path = TDD de cero a cien (o casi)
+	url = https://github.com/aleasoluciones/pycones2018
