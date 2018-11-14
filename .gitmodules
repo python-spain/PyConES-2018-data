@@ -34,3 +34,6 @@
 [submodule "tdd_pycones_2018"]
 	path = TDD de cero a cien (o casi)
 	url = https://github.com/aleasoluciones/pycones2018
+[submodule "hacking-rl"]
+	path = hacking-rl
+	url = https://github.com/Guillemdb/hacking-rl
