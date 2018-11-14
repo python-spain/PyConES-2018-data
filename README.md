@@ -74,6 +74,7 @@ git submodule add https://link_to_your_git_repo
   * Andrew Godwin
 * [Hackeando el Reinforcement Learning](https://2018.es.pycon.org/talk/hackeando-el-reinforcement-learning/)
   * Guillem Duran Ballester
+  * [Repo](https://github.com/Guillemdb/hacking-rl)
 * [GIL: Todo lo que siempre quisiste saber y nunca te atreviste a preguntar](https://2018.es.pycon.org/talk/gil-todo-lo-que-siempre-quisiste-saber-y-nunca-te-atreviste-a-preguntar/)
   * Jesús Cea Avión
 * [Desde imágenes RGB a mapas de profundidad pasando por redes convolucionales profundas](https://2018.es.pycon.org/talk/desde-imagenes-rgb-a-mapas-de-profundidad-pasando-por-redes-convolucionales-profundas/)
