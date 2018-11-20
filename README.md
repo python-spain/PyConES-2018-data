@@ -106,6 +106,8 @@ git submodule add https://link_to_your_git_repo
   * Marta Rivera Alba
 * [Everything is a (Python) module](https://2018.es.pycon.org/talk/everything-is-a-python-module/)
   * Salvador de la Puente González
+  * [Slides](http://delapuente.github.io/presentations/everything-is-a-python-import/#/)
+  * [abm package repo](https://github.com/delapuente/abm)
 * [The Python Space adventure](https://2018.es.pycon.org/talk/the-python-space-adventure/)
   * Gloria Passarello
 * [Python & gRPC, el conquistador de microservicios](https://2018.es.pycon.org/talk/python-grpc-el-conquistador-de-microservicios/)
