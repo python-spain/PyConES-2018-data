@@ -157,6 +157,7 @@ git submodule add https://link_to_your_git_repo
   * [Slides](https://docs.google.com/presentation/d/1yB-CvKNvg13xyCHrqBTDOVBC-elTc10xy2vBVm53wZg/edit?usp=sharing)
 * [Back to Basics: NLP](https://2018.es.pycon.org/talk/back-to-basics-nlp/)
   * Claudia Guirao Fernández
+  * [Repo](https://github.com/intiveda/back2basicsNLP)
 * [A la caza de exoplanetas por imagen directa con Python - De la ciencia de datos, la exoplanetología y otros demonios](https://2018.es.pycon.org/talk/a-la-caza-de-exoplanetas-por-imagen-directa-con-python-de-la-ciencia-de-datos-la-exoplanetologia-y-otros-demonios/)
   * Carlos Alberto Gomez Gonzalez
   * [Slides](https://speakerdeck.com/carlgogo/a-la-caza-de-exoplanetas-por-imagen-directa-con-python-de-la-ciencia-de-datos-la-exoplanetologia-y-otros-demonios)

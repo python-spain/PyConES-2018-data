@@ -37,3 +37,6 @@
 [submodule "hacking-rl"]
 	path = Hackeando el Reinforcement Learning
 	url = https://github.com/Guillemdb/hacking-rl
+[submodule "back2basicsNLP"]
+	path = back2basicsNLP
+	url = https://github.com/intiveda/back2basicsNLP
