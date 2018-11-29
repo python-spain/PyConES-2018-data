@@ -89,7 +89,7 @@ git submodule add https://link_to_your_git_repo
 * [Y hoy...¿Qué vemos?. Analizando Reviews de Películas con Python](https://2018.es.pycon.org/talk/y-hoy-que-vemos-analizando-reviews-de-peliculas-con-python/)
   * Rafa Haro
    * [Slides](https://docs.google.com/presentation/d/1Pg752mKVwU6bz_Imz9ojptScsKxzQgrae_yH-DX5b-Q/edit?usp=sharing)
-   * Notebook
+   * [Repo](https://github.com/rafaharo/pycones2018)
 * [Flask, un pequeño gran héroe](https://2018.es.pycon.org/talk/flask-un-pequeno-gran-heroe/)
   * Maribel Tirados Gómez
 * [Diseñando APIs en instantes usando Flask](https://2018.es.pycon.org/talk/disenando-apis-en-instantes-usando-flask/)
