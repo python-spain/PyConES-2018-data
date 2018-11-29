@@ -16,6 +16,8 @@ git submodule add https://link_to_your_git_repo
   * [Repo](https://github.com/PyDataMallorca/PyConES2018_Introduccion_a_data_science_en_Python)
 * [TDD de cero a cien (o casi)](https://2018.es.pycon.org/talk/tdd-de-cero-a-cien-o-casi/)
   * Raúl Villares & Alberto de la Cruz
+  * [Repo](https://github.com/aleasoluciones/pycones2018)
+  * [Slides](https://github.com/aleasoluciones/pycones2018/blob/master/doc/PyConES_2018.pdf)
 * [¡Eureka! - Python y ciencia](https://2018.es.pycon.org/talk/eureka-python-y-ciencia/)
   * Miguel Sánchez de León Peque
   * [Notebook ![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Peque/PyConES-Spain-2018-eureka/binder?filepath=Eureka.ipynb)
@@ -26,6 +28,7 @@ git submodule add https://link_to_your_git_repo
   * Alba Carrero, Juan Javaloyes y Daniel Vázquez
 * [Representación de datos geográficos](https://2018.es.pycon.org/talk/representacion-de-datos-geograficos/)
   * Sara Rodríguez López
+  * [Repo](https://github.com/sararl/pycones2018/tree/master/tallerDatosGeo_05_10_18)
 
 ## Conferences
 
@@ -51,8 +54,10 @@ git submodule add https://link_to_your_git_repo
   * Daniel Domene López
 * [YADLRetina: Yet Another Deep Learning Retina](https://2018.es.pycon.org/talk/yadlretina-yet-another-deep-learning-retina/)
   * Rubén Crespo Cano
+  * [Slides](https://github.com/rcrespocano/PyConES-2018)
 * [Web scraping para principiantes](https://2018.es.pycon.org/talk/web-scraping-para-principiantes/)
   * Sara Rodríguez López
+  * [Repo](https://github.com/sararl/pycones2018/tree/master/webScrapingCrawling_06_10_18)
 * [Using Python to build a data privacy layer for decentralized applications](https://2018.es.pycon.org/talk/using-python-to-build-a-data-privacy-layer-for-decentralized-applications/)
   * David Núñez
 * [Khiva: Cómo Al Juarismi reventaba GPUs para analizar time-series](https://2018.es.pycon.org/talk/khiva-como-al-juarismi-reventaba-gpus-para-analizar-time-series/)
@@ -69,6 +74,7 @@ git submodule add https://link_to_your_git_repo
   * Andrew Godwin
 * [Hackeando el Reinforcement Learning](https://2018.es.pycon.org/talk/hackeando-el-reinforcement-learning/)
   * Guillem Duran Ballester
+  * [Repo](https://github.com/Guillemdb/hacking-rl)
 * [GIL: Todo lo que siempre quisiste saber y nunca te atreviste a preguntar](https://2018.es.pycon.org/talk/gil-todo-lo-que-siempre-quisiste-saber-y-nunca-te-atreviste-a-preguntar/)
   * Jesús Cea Avión
 * [Desde imágenes RGB a mapas de profundidad pasando por redes convolucionales profundas](https://2018.es.pycon.org/talk/desde-imagenes-rgb-a-mapas-de-profundidad-pasando-por-redes-convolucionales-profundas/)
@@ -82,6 +88,8 @@ git submodule add https://link_to_your_git_repo
    * [Repo](https://github.com/jmortega/testing_python_security)
 * [Y hoy...¿Qué vemos?. Analizando Reviews de Películas con Python](https://2018.es.pycon.org/talk/y-hoy-que-vemos-analizando-reviews-de-peliculas-con-python/)
   * Rafa Haro
+   * [Slides](https://docs.google.com/presentation/d/1Pg752mKVwU6bz_Imz9ojptScsKxzQgrae_yH-DX5b-Q/edit?usp=sharing)
+   * Notebook
 * [Flask, un pequeño gran héroe](https://2018.es.pycon.org/talk/flask-un-pequeno-gran-heroe/)
   * Maribel Tirados Gómez
 * [Diseñando APIs en instantes usando Flask](https://2018.es.pycon.org/talk/disenando-apis-en-instantes-usando-flask/)
@@ -90,12 +98,16 @@ git submodule add https://link_to_your_git_repo
   * Mar Bartolomé
 * [¿Por qué y para qué usar Wagtail?](https://2018.es.pycon.org/talk/por-que-y-para-que-usar-wagtail/)
   * Federico Mon
+  * [Video](https://www.youtube.com/watch?v=d7PfyUoZ2j4)
+  * [Slides](https://gnufede.gitlab.io/wagtail-talk)
 * [Build your static site with Python](https://2018.es.pycon.org/talk/build-your-static-site-with-python/)
   * Fernando Rabanal
 * [Python, Pandas and other animals to survive in the data jungle.](https://2018.es.pycon.org/talk/python-pandas-and-other-animals-to-survive-in-the-data-jungle/)
   * Marta Rivera Alba
 * [Everything is a (Python) module](https://2018.es.pycon.org/talk/everything-is-a-python-module/)
   * Salvador de la Puente González
+  * [Slides](http://delapuente.github.io/presentations/everything-is-a-python-import/#/)
+  * [abm package repo](https://github.com/delapuente/abm)
 * [The Python Space adventure](https://2018.es.pycon.org/talk/the-python-space-adventure/)
   * Gloria Passarello
 * [Python & gRPC, el conquistador de microservicios](https://2018.es.pycon.org/talk/python-grpc-el-conquistador-de-microservicios/)
@@ -142,8 +154,12 @@ git submodule add https://link_to_your_git_repo
   * [Repo](https://github.com/perdy/speech)
 * [Descubriendo los misterios del universo con Python](https://2018.es.pycon.org/talk/descubriendo-los-misterios-del-universo-con-python/)
   * Maria Camila Remolina-Gutiérrez
+  * [Slides](https://docs.google.com/presentation/d/1yB-CvKNvg13xyCHrqBTDOVBC-elTc10xy2vBVm53wZg/edit?usp=sharing)
 * [Back to Basics: NLP](https://2018.es.pycon.org/talk/back-to-basics-nlp/)
   * Claudia Guirao Fernández
+  * [Slides](https://github.com/intiveda/back2basicsNLP/blob/master/Back2basics_talk_pycones_claudiaguirao.pdf)
+  * [Repo](https://github.com/intiveda/back2basicsNLP)
+  * [Apuntes](https://github.com/intiveda/back2basicsNLP/blob/master/BACK2BASICS_NLP.pdf)  
 * [A la caza de exoplanetas por imagen directa con Python - De la ciencia de datos, la exoplanetología y otros demonios](https://2018.es.pycon.org/talk/a-la-caza-de-exoplanetas-por-imagen-directa-con-python-de-la-ciencia-de-datos-la-exoplanetologia-y-otros-demonios/)
   * Carlos Alberto Gomez Gonzalez
   * [Slides](https://speakerdeck.com/carlgogo/a-la-caza-de-exoplanetas-por-imagen-directa-con-python-de-la-ciencia-de-datos-la-exoplanetologia-y-otros-demonios)
